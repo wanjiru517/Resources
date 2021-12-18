@@ -8,3 +8,4 @@
 * [Design Thinking IBM](https://www.ibm.com/design/thinking/page/courses/AI_Essentials)
 * [ML Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp)
 * [Ml Roadmap](https://www.theinsaneapp.com/2021/03/roadmap-series.html)
+* [Chatbot Africa playlist](https://www.youtube.com/watch?v=-i2kxhiHE70&list=PL2R6CYefsNh6D6YXc2t_iItunsxTpEkPN&index=5)
