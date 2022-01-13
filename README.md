@@ -34,6 +34,7 @@ The good news is there are a lot of free learning resources. I have a precompile
 
 ### BONUS LINKS
 
+* [ML Roadmap](https://www.theinsaneapp.com/2021/03/roadmap-series.html) Start here to get a detailed look at what you need to learn in your Machine Learning and or deep learning journey.
 * [Statistical Analysis Handbook](https://www.statsref.com/HTML/index.html) An online text-book containing detailed definitions of statistical terms
 * [Self Paced ML Course(Free)](https://mlcourse.ai/) A free self paced Machine Learning course 
 * [Link to ML Youtube Courses](https://github.com/dair-ai/ML-YouTube-Courses) A comprehensive list of Machine Learning Youtube Courses
@@ -41,7 +42,6 @@ The good news is there are a lot of free learning resources. I have a precompile
 * [100 free data science books](https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html) All important data science books collectively put together for free
 * [Data talks club](https://datatalks.club/) An important data science community to join. They host data engineering and machine learning zoomcamps with certification upon completion of a capstone project. Join their slack channel today
 * [ML Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp) Data talk's Machine learning course 
+* [Design Thinking IBM](https://www.ibm.com/design/thinking/page/courses/AI_Essentials) A useful course to get you started on building AI projectsa and products with the customer in mind. 
 * [Free web books and articles about data](https://dataschool.com/)
-* [Design Thinking IBM](https://www.ibm.com/design/thinking/page/courses/AI_Essentials)
-* [ML Roadmap](https://www.theinsaneapp.com/2021/03/roadmap-series.html)
-* [Chatbot Africa playlist](https://www.youtube.com/watch?v=-i2kxhiHE70&list=PL2R6CYefsNh6D6YXc2t_iItunsxTpEkPN&index=5)
+* [Chatbot Africa playlist](https://www.youtube.com/watch?v=-i2kxhiHE70&list=PL2R6CYefsNh6D6YXc2t_iItunsxTpEkPN&index=5) For anyone interested in buidling chatbots using Conversational AI.
