@@ -1,8 +1,11 @@
 
-### DATA SCIENCE RESOURCES
+# DATA SCIENCE RESOURCES
 
 One thing we have to embrace in the 21st Century is the reality that we will never stop learning. This applies for everyone interested in data science.
 In case you haven't figured it out, data science is an umbrella term for a blend of skills related to working with data to deliver business value.
+#### Data scientist
+![image](https://user-images.githubusercontent.com/91478331/149304100-83418b17-95d6-4fa7-81e9-61d7076c0d88.png)
+
 
 #### The lifecycle
 The Data Science lifecycle is a key component in defining the various roles and skills required when working with data.
