@@ -34,7 +34,8 @@ The good news is there are a lot of free learning resources. I have a precompile
 
 ### BONUS LINKS
 
-* [ML Roadmap](https://www.theinsaneapp.com/2021/03/roadmap-series.html) Start here to get a detailed look at what you need to learn in your Machine Learning and or deep learning journey.
+* [Getting started in ML](https://github.com/louisfb01/start-machine-learning) An exhaustive guide on everything necessary to start learning 
+* [ML Roadmap](https://www.theinsaneapp.com/2021/03/roadmap-series.html) Get a detailed look at what you need to learn in your Machine Learning and or deep learning journey.
 * [Statistical Analysis Handbook](https://www.statsref.com/HTML/index.html) An online text-book containing detailed definitions of statistical terms
 * [Self Paced ML Course(Free)](https://mlcourse.ai/) A free self paced Machine Learning course 
 * [Link to ML Youtube Courses](https://github.com/dair-ai/ML-YouTube-Courses) A comprehensive list of Machine Learning Youtube Courses
