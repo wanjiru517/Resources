@@ -3,11 +3,13 @@
 
 One thing we have to embrace in the 21st Century is the reality that we will never stop learning. This applies for everyone interested in data science.
 In case you haven't figured it out, data science is an umbrella term for a blend of skills related to working with data to deliver business value.
-#### Data scientist
+
+### Who is a Data Scientist?
+According to SAS, Data scientists are a new breed of analytical data expert who have the technical skills to solve complex problems – and the curiosity to explore what problems need to be solved. They’re part mathematician, part computer scientist and part trend-spotter. And, because they straddle both the business and IT worlds, they’re highly sought-after and well-paid. Who wouldn’t want to be one?
 ![image](https://user-images.githubusercontent.com/91478331/149304100-83418b17-95d6-4fa7-81e9-61d7076c0d88.png)
 
 
-#### The lifecycle
+### The lifecycle
 The Data Science lifecycle is a key component in defining the various roles and skills required when working with data.
 ![image](https://user-images.githubusercontent.com/91478331/149301815-2c4e6abc-e157-430b-8479-c7f579800c52.png)
 
