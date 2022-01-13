@@ -15,24 +15,33 @@ The Data Science lifecycle is a key component in defining the various roles and 
 
 ![image](https://user-images.githubusercontent.com/91478331/149301815-2c4e6abc-e157-430b-8479-c7f579800c52.png)
 
-### Job possibilities
+### Job Possibilities
 From the lifecycle come various responsibilities and jobs that a data scientist can specialize in.
 
 ![image](https://miro.medium.com/max/4092/1*mZK8Dyj-eXMVCoJa6dJMjg.png)
 ![image](https://miro.medium.com/max/3760/1*jmk4Q2GAeUM_eqUtMh99oQ.png)
 
+### Required Skills
+The following are the must have skills per job role. Also I have to put a discalimer. This list is in no way exhaustive or representative of company expectations. So it's good to know something about each field.
 
-[FREE LEARNING RESOURCES_OCT.pdf](https://github.com/wanjiru517/Resources/files/7861470/FREE.LEARNING.RESOURCES_OCT.pdf)
+![image](https://i2.wp.com/blog.udacity.com/wp-content/uploads/2014/11/Data-Science-Skills-Udacity-Matrix.png?resize=640%2C521&ssl=1)
 
+### Finally, where to start.
 
-* [Statistical Analysis Handbook](https://www.statsref.com/HTML/index.html)
-* [Self Paced ML Course(Free)](https://mlcourse.ai/)
-* [Link to ML Youtube Courses](https://github.com/dair-ai/ML-YouTube-Courses)
-* [Omdena Knowledge Base for ML, Computer Vision, NLP and Remote Sensing](https://omdenaai.github.io/knowledge.html)
-* [100 free data science books](https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html)
-* [Data talks club](https://datatalks.club/)
+![Data Science and AI Beginner kit](https://user-images.githubusercontent.com/91478331/149317875-6da019d9-cdcc-4028-99c9-0e5e527b7849.png)
+The good news is there are a lot of free learning resources. I have a precompiled list of platforms where you can learn all about Data Science, Machine Learning, Deep Learning, Computer Vision and AI.
+[FREE LEARNING RESOURCES.pdf](https://github.com/wanjiru517/Resources/files/7861470/FREE.LEARNING.RESOURCES_OCT.pdf)
+
+### BONUS LINKS
+
+* [Statistical Analysis Handbook](https://www.statsref.com/HTML/index.html) An online text-book containing detailed definitions of statistical terms
+* [Self Paced ML Course(Free)](https://mlcourse.ai/) A free self paced Machine Learning course 
+* [Link to ML Youtube Courses](https://github.com/dair-ai/ML-YouTube-Courses) A comprehensive list of Machine Learning Youtube Courses
+* [Omdena Knowledge Base for ML, Computer Vision, NLP and Remote Sensing](https://omdenaai.github.io/knowledge.html) A useful resource page created by Omdena. Omdena is a community where data scientists from all across the world get to meet and collabolarate on real world projects and gain experience as well as share knowledge.
+* [100 free data science books](https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html) All important data science books collectively put together for free
+* [Data talks club](https://datatalks.club/) An important data science community to join. They host data engineering and machine learning zoomcamps with certification upon completion of a capstone project. Join their slack channel today
+* [ML Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp) Data talk's Machine learning course 
 * [Free web books and articles about data](https://dataschool.com/)
 * [Design Thinking IBM](https://www.ibm.com/design/thinking/page/courses/AI_Essentials)
-* [ML Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp)
 * [ML Roadmap](https://www.theinsaneapp.com/2021/03/roadmap-series.html)
 * [Chatbot Africa playlist](https://www.youtube.com/watch?v=-i2kxhiHE70&list=PL2R6CYefsNh6D6YXc2t_iItunsxTpEkPN&index=5)
