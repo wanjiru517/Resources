@@ -1,4 +1,4 @@
-### GETTING STARTED IN DATA SCIENCE
+# GETTING STARTED IN DATA SCIENCE
 ![download](https://user-images.githubusercontent.com/91478331/149299067-2f48d0c6-4a19-4f29-b968-22d3aeb744a0.gif)
 
 
@@ -12,7 +12,7 @@ What's missing you ask? Proper skills and an unending desire to learn, research 
 
 
 
-###### A collection of links to useful resources that will guide you in your learning journey.
+### A collection of links to useful resources that will guide you in your learning journey.
 
 * [Statistical Analysis Handbook](https://www.statsref.com/HTML/index.html)
 * [Self Paced ML Course(Free)](https://mlcourse.ai/)
