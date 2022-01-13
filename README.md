@@ -42,6 +42,6 @@ The good news is there are a lot of free learning resources. I have a precompile
 * [100 free data science books](https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html) All important data science books collectively put together for free
 * [Data talks club](https://datatalks.club/) An important data science community to join. They host data engineering and machine learning zoomcamps with certification upon completion of a capstone project. Join their slack channel today
 * [ML Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp) Data talk's Machine learning course 
-* [Design Thinking IBM](https://www.ibm.com/design/thinking/page/courses/AI_Essentials) A useful course to get you started on building AI projectsa and products with the customer in mind. 
-* [Free web books and articles about data](https://dataschool.com/)
+* [Design Thinking IBM](https://www.ibm.com/design/thinking/page/courses/AI_Essentials) A useful course to get you started on building AI projects and products with the customer in mind. 
 * [Chatbot Africa playlist](https://www.youtube.com/watch?v=-i2kxhiHE70&list=PL2R6CYefsNh6D6YXc2t_iItunsxTpEkPN&index=5) For anyone interested in buidling chatbots using Conversational AI.
+* [Free web books and articles about data](https://dataschool.com/)
