@@ -16,6 +16,11 @@ The Data Science lifecycle is a key component in defining the various roles and 
 ![image](https://user-images.githubusercontent.com/91478331/149301815-2c4e6abc-e157-430b-8479-c7f579800c52.png)
 
 ### Job possibilities
+From the lifecycle come various responsibilities and jobs that a data scientist can specialize in.
+
+![image](https://miro.medium.com/max/4092/1*mZK8Dyj-eXMVCoJa6dJMjg.png)
+![image](https://miro.medium.com/max/3760/1*jmk4Q2GAeUM_eqUtMh99oQ.png)
+
 
 [FREE LEARNING RESOURCES_OCT.pdf](https://github.com/wanjiru517/Resources/files/7861470/FREE.LEARNING.RESOURCES_OCT.pdf)
 
