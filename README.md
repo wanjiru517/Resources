@@ -1,18 +1,15 @@
-# GETTING STARTED IN DATA SCIENCE
-![download](https://user-images.githubusercontent.com/91478331/149299067-2f48d0c6-4a19-4f29-b968-22d3aeb744a0.gif)
 
+### DATA SCIENCE RESOURCES
 
-There is a lot of hype around data science. It is the career path everyone wants to switch to. Boasting of shiny job descriptions, lumpsome salaries and flexible hours, who woudn't want to do it. But in as much as there are many enthusiasts in this field, very few people can claim to be truly qualified.
+One thing we have to embrace in the 21st Century is the reality that we will never stop learning. This applies for everyone interested in data science.
+In case you haven't figured it out, data science is an umbrella term for a blend of skills related to working with data to deliver business value.
 
-What's missing you ask? Proper skills and an unending desire to learn, research and do projects. And a realization that it's not just about knowing there are three kinds of machine learning, but also knowing how to deliver business insights, develop data pipelines without leakage, 
+#### The lifecycle
+The Data Science lifecycle is a key component in defining the various roles and skills required when working with data.
+![image](https://user-images.githubusercontent.com/91478331/149301815-2c4e6abc-e157-430b-8479-c7f579800c52.png)
 
+[FREE LEARNING RESOURCES_OCT.pdf](https://github.com/wanjiru517/Resources/files/7861470/FREE.LEARNING.RESOURCES_OCT.pdf)
 
-
-
-
-
-
-### A collection of links to useful resources that will guide you in your learning journey.
 
 * [Statistical Analysis Handbook](https://www.statsref.com/HTML/index.html)
 * [Self Paced ML Course(Free)](https://mlcourse.ai/)
