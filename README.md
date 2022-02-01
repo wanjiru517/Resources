@@ -41,7 +41,7 @@ The good news is there are a lot of free learning resources. I have a precompile
 * [45 Free Udacity courses](https://www.mltut.com/udacity-free-courses-on-machine-learning/) Free ML courses available on Udacity
 * [Link to ML Youtube Courses](https://github.com/dair-ai/ML-YouTube-Courses) A comprehensive list of Machine Learning Youtube Courses
 ##### Community based resources
-* [Omdena Knowledge Base for ML, Computer Vision, NLP and Remote Sensing](https://omdenaai.github.io/knowledge.html) A useful resource page created by Omdena. Omdena is a community where data scientists from all across the world get to meet and collabolarate on real world projects and gain experience as well as share knowledge.
+* [Omdena Knowledge Base for ML, Computer Vision, NLP and Remote Sensing](https://omdenaai.github.io/knowledge.html) A useful resource page created by Omdena. [Omdena](https://omdena.com/) is a community where data scientists from all across the world get to meet and collabolarate on real world projects and gain experience as well as share knowledge.
 * [Data talks club](https://datatalks.club/) An important data science community to join. They host data engineering and machine learning zoomcamps with certification upon completion of a capstone project. Join their slack channel today
 * [DataEngineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) Data talk's Data Engineering course
 * [ML Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp) Data talk's Machine learning course 
