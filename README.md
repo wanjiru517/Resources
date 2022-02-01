@@ -40,11 +40,14 @@ The good news is there are a lot of free learning resources. I have a precompile
 * [Self Paced ML Course(Free)](https://mlcourse.ai/) A free self paced Machine Learning course 
 * [45 Free Udacity courses](https://www.mltut.com/udacity-free-courses-on-machine-learning/) Free ML courses available on Udacity
 * [Link to ML Youtube Courses](https://github.com/dair-ai/ML-YouTube-Courses) A comprehensive list of Machine Learning Youtube Courses
+##### Community based resources
 * [Omdena Knowledge Base for ML, Computer Vision, NLP and Remote Sensing](https://omdenaai.github.io/knowledge.html) A useful resource page created by Omdena. Omdena is a community where data scientists from all across the world get to meet and collabolarate on real world projects and gain experience as well as share knowledge.
-* [100 free data science books](https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html) All important data science books collectively put together for free
 * [Data talks club](https://datatalks.club/) An important data science community to join. They host data engineering and machine learning zoomcamps with certification upon completion of a capstone project. Join their slack channel today
 * [DataEngineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) Data talk's Data Engineering course
 * [ML Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp) Data talk's Machine learning course 
+##### Project based resources
 * [Design Thinking IBM](https://www.ibm.com/design/thinking/page/courses/AI_Essentials) A useful course to get you started on building AI projects and products with the customer in mind. 
 * [Chatbot Africa playlist](https://www.youtube.com/watch?v=-i2kxhiHE70&list=PL2R6CYefsNh6D6YXc2t_iItunsxTpEkPN&index=5) For anyone interested in buidling chatbots using Conversational AI.
+##### Books and articles
 * [Free web books and articles about data](https://dataschool.com/)
+* [100 free data science books](https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html) All important data science books collectively put together for free
