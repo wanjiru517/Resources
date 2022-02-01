@@ -38,6 +38,7 @@ The good news is there are a lot of free learning resources. I have a precompile
 * [ML Roadmap](https://www.theinsaneapp.com/2021/03/roadmap-series.html) Get a detailed look at what you need to learn in your Machine Learning and or deep learning journey.
 * [Statistical Analysis Handbook](https://www.statsref.com/HTML/index.html) An online text-book containing detailed definitions of statistical terms
 * [Self Paced ML Course(Free)](https://mlcourse.ai/) A free self paced Machine Learning course 
+* [45 Free Udacity courses](https://www.mltut.com/udacity-free-courses-on-machine-learning/) Free ML courses available on Udacity
 * [Link to ML Youtube Courses](https://github.com/dair-ai/ML-YouTube-Courses) A comprehensive list of Machine Learning Youtube Courses
 * [Omdena Knowledge Base for ML, Computer Vision, NLP and Remote Sensing](https://omdenaai.github.io/knowledge.html) A useful resource page created by Omdena. Omdena is a community where data scientists from all across the world get to meet and collabolarate on real world projects and gain experience as well as share knowledge.
 * [100 free data science books](https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html) All important data science books collectively put together for free
