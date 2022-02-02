@@ -47,7 +47,7 @@ The good news is there are a lot of free learning resources. I have a precompile
 * [DataEngineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) Data talk's Data Engineering course
 * [ML Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp) Data talk's Machine learning course 
 ##### Project based resources
-* [Applied Data Science Lab](https://mailchi.mp/619c160d52d1/applied-data-science-module) Join World Quaint University and take a practical approach to learning data science by doing 8 comprehensive projects for free
+* [Applied Data Science Lab](https://mailchi.mp/619c160d52d1/applied-data-science-module) Join [World Quant University](https://www.wqu.edu/) and take a practical approach to learning data science by doing 8 comprehensive projects for free
 * [Design Thinking IBM](https://www.ibm.com/design/thinking/page/courses/AI_Essentials) A useful course to get you started on building AI projects and products with the customer in mind. 
 * [Chatbot Africa playlist](https://www.youtube.com/watch?v=-i2kxhiHE70&list=PL2R6CYefsNh6D6YXc2t_iItunsxTpEkPN&index=5) For anyone interested in buidling chatbots using Conversational AI.
 ##### Books and articles
