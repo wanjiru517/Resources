@@ -44,6 +44,8 @@ The good news is there are a lot of free learning resources. I have a precompile
 * [Made with ML](https://madewithml.com/) A useful platform with ML deep dives and tutorials.
 * [Machine Learning Guide Resources](https://ocdevel.com/mlg/resources) A collection of ML resources ypu want to look into as you advance you ML/DL skills
 * [Machine Learning Guide Podcast](https://ocdevel.com/mlg) For lovers of podcasts feast your ears on this detailed podacst course. Available on [Spotify](https://open.spotify.com/show/5M9yZpSyF1jc7uFp2MlhP9) ,[iTunes](https://itunes.apple.com/us/podcast/machine-learning-guide/id1204521130), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9tYWNoaW5lbGVhcm5pbmdndWlkZS5saWJzeW4uY29tL3Jzcw==), [Stitcher](http://www.stitcher.com/s?fid=130679&refid=stpr), [Custom RSS](http://machinelearningguide.libsyn.com/rss)
+##### Challenge based resources
+* [100 days of ML](https://github.com/Avik-Jain/100-Days-Of-ML-Code) Give yourself a challenge to learn ML in 100 days
 ##### Community based resources
 * [Omdena Knowledge Base for ML, Computer Vision, NLP and Remote Sensing](https://omdenaai.github.io/knowledge.html) A useful resource page created by Omdena. [Omdena](https://omdena.com/) is a community where data scientists from all across the world get to meet and collabolarate on real world projects and gain experience as well as share knowledge.
 * [Data talks club](https://datatalks.club/) An important data science community to join. They host data engineering and machine learning zoomcamps with certification upon completion of a capstone project. Join their slack channel today
