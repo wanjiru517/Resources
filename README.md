@@ -49,8 +49,9 @@ The good news is there are a lot of free learning resources. I have a precompile
 ##### Community based resources
 * [Omdena Knowledge Base for ML, Computer Vision, NLP and Remote Sensing](https://omdenaai.github.io/knowledge.html) A useful resource page created by Omdena. [Omdena](https://omdena.com/) is a community where data scientists from all across the world get to meet and collabolarate on real world projects and gain experience as well as share knowledge.
 * [Data talks club](https://datatalks.club/) An important data science community to join. They host data engineering and machine learning zoomcamps with certification upon completion of a capstone project. Join their slack channel today
-* [DataEngineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) Data talk's Data Engineering course
-* [ML Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp) Data talk's Machine learning course 
+  * [DataEngineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) Data talk's Data Engineering course
+  * [ML Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp) Data talk's Machine learning course 
+* [ Dphi-tec](https://dphi.tech/courses) A very useful free platform inspired by datatalks club. They precompile all the necessary courses a data scientist must learn.I highly recommend it.
 ##### Project based resources
 * [Applied Data Science Lab](https://mailchi.mp/619c160d52d1/applied-data-science-module) Join [World Quant University](https://www.wqu.edu/) and take a practical approach to learning data science by doing 8 comprehensive projects for free
 * [GitHub practical tutorial](https://github.com/practical-tutorials/project-based-learning#python) A collection of python project focused on multiple fields
